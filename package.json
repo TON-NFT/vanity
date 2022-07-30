@@ -1,0 +1,13 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Go project",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "go run vanity.go --case='true' --suffix='_Whale'"
+  },
+  "keywords": [],
+  "author": "Yablonev",
+  "license": "ISC"
+}
